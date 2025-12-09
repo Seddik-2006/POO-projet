@@ -1,0 +1,12 @@
+{
+  "title": "Playlist Générée",
+  "tracks": [
+    {
+      "title": "Inconnu",
+      "artist": "Inconnu",
+      "album": "Inconnu",
+      "duration": 122,
+      "location": "file:///C:/Users/seddi/eclipse-workspace/ProjetPOO/test.mp3"
+    }
+  ]
+}
