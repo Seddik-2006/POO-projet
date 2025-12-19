@@ -1,0 +1,61 @@
+{
+  "title": "Playlist Générée",
+  "tracks": [
+    {
+      "title": "Ali Amran - Tabalizt [Audio Officiel]",
+      "artist": "Ali Amran : Chaîne Officielle",
+      "album": "Inconnu",
+      "year": "Inconnue",
+      "duration": 220,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/Ali Amran - Tabalizt [Audio Officiel].mp3"
+    },
+    {
+      "title": "Inconnu",
+      "artist": "Inconnu",
+      "album": "Inconnu",
+      "year": "Inconnue",
+      "duration": 238,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/Anfas Ayouliw.mp3"
+    },
+    {
+      "title": "Inconnu",
+      "artist": "Inconnu",
+      "album": "Inconnu",
+      "year": "Inconnue",
+      "duration": 335,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/music2/music5/Votit.mp3"
+    },
+    {
+      "title": "Tismin",
+      "artist": "Mohamed Allaoua",
+      "album": "Adyoueal ssar tamurt (Rythmes et mélodies de Kabylie)",
+      "year": "Inconnue",
+      "duration": 277,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/music2/Tismin.mp3"
+    },
+    {
+      "title": "El Besta - Liyah liyah / Detni sekra / Rabbani  | Live Paris [Cabaret Sauvage]",
+      "artist": "El Besta البسطة",
+      "album": "Inconnu",
+      "year": "Inconnue",
+      "duration": 724,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/music3/El Besta - Liyah liyah  Detni sekra  Rabbani   Live Paris [Cabaret Sauvage].mp3"
+    },
+    {
+      "title": "Inconnu",
+      "artist": "Inconnu",
+      "album": "Inconnu",
+      "year": "Inconnue",
+      "duration": 339,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/music3/Lounès Kheloui - Zrigh udmim.mp3"
+    },
+    {
+      "title": "Said Youcef - Tu m'as desorienté",
+      "artist": "IRATH MUSIC",
+      "album": "Inconnu",
+      "year": "Inconnue",
+      "duration": 255,
+      "location": "file:////mnt/c/Users/seddi/eclipse-workspace/ProjetPOO/music/music3/music4/Said Youcef - Tu mas desorienté.mp3"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+src/app/cli/CLIApp.java
+src/app/Main.java
+src/app/model/Metadata.java
+src/app/model/Mp3File.java
+src/app/model/Playlist.java
+src/app/service/FolderExplorer.java
+src/app/service/JSONExporter.java
+src/app/service/M3U8Exporter.java
+src/app/service/MetadataReader.java
+src/app/service/PlaylistBuilder.java
+src/app/service/XSPFExporter.java
